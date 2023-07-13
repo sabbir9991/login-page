@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.benner-section{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 700px;
+    display: flex;
+    /* justify-content: center; */
+    
+}
+.titel-section{
+    display: flex;
+    padding: 0 200px;
+}
+.para-grap{
+    padding: 200px;
+    margin-left: -150px;
+    /* font-size: 40px;
+    font-weight: 300; */
+}
+.h1-class{
+    font-size: 60px;
+    font-weight: 600;
+    color: #272727;
+    margin-bottom: 20px;
+    height: normal;
+}
+.p-calss{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 10px 15px;
+    align-items: flex-start;
+    margin-top: 10px;
+    border: none;
+}
+/* bonez-section */
+.bonaz-sin{
+    margin-bottom: 60px;
+}
+
+.bonez-section{
+    margin-top: 150px;
+    text-align: center;
+}
+section div > p{
+    margin-top: 25px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    
+
+}
+section div > h1{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.bonez-img{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 180px;
+}
+
+.frist{
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    
+   
+}
+.secand{
+    background-color: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+
+}
+.third{
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    
+}
+/* main section */
+.main-section{
+    
+    width: 1240px;
+    height: 250px;
+    margin-left: 300px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-bottom: 100px;
+
+}
+.main-section-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+    justify-content: ;
+    padding-top: 80px;
+    
+}
+.fs{
+    margin-left: 150px;
+    font-size: 15px;
+    font-weight: 400;    
+}
+/*  */
+.secnod-main-section{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-bottom: 100px;
+}
+.secand-man-stin{
+    display: flex;
+    justify-content: space-around;
+}
+.se-mai-setn{
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+span{
+    color: #E55473;
+}
+.bnt-section{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 10px 15px;
+    align-items: flex-start;
+    margin-top: 20px;
+    margin-left: 180px;
+    border: none;
+}
+/*  */
+.Instagram{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   text-align: center;
+   margin-bottom: 100px;
+}
+.Instagram-section{
+    font-size: 35px;
+    font-weight: 600;
+}
+section div > img{
+    padding: 20px;
+}
+/*  */
+.backround-img{
+    background-image: url("./Rectangle\ 9.png");
+    background-size: 1520px;
+    width: 1800px;
+    height: 400px;
+    margin-left: 190px;
+    margin-bottom: 100px;
+    background-repeat: no-repeat;
+}
+.backround-h3{
+    text-align: center;
+    padding-top: 120px;
+    margin-right: 320px;
+}
+.bacr-h3{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.backround-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.subscribe-input{
+    width: 700px;
+    height: 40px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+}
+.backround-button{
+    width: 88px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 300;
+ /*  */
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-left: 10px;
+    border: none;
+}
+/*  */
+.footer-section{
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+}
+.footer-lest{
+    text-align: center;
+    padding-top: 180px;
+}
+.footer-h3{
+    font-size: 35px;
+    font-weight: 600;
+    color: #FFF;
+}
